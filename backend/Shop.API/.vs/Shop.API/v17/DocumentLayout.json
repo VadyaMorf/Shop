@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Medtehnika\\backend\\Shop.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E5554A-A5F5-49A4-91A8-C782158EB113}|Shop.Core\\Shop.Core.csproj|C:\\Medtehnika\\backend\\Shop.API\\shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E5554A-A5F5-49A4-91A8-C782158EB113}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|c:\\medtehnika\\backend\\shop.api\\shop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|solutionrelative:shop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|C:\\Medtehnika\\backend\\Shop.API\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|c:\\medtehnika\\backend\\shop.api\\shop\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|solutionrelative:shop\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0434731-2809-4B7E-8921-52E8821485AC}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Shop.API\\shop.dataaccess\\repositiries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0434731-2809-4B7E-8921-52E8821485AC}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repositiries\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|C:\\Medtehnika\\backend\\Shop.API\\shop\\extensions\\apiextencions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|solutionrelative:shop\\extensions\\apiextencions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|C:\\Medtehnika\\backend\\Shop.API\\shop\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42498A4-1713-4835-A374-9250CB6AECBE}|Shop\\Shop.csproj|solutionrelative:shop\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shop\\appsettings.Development.json",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\appsettings.Development.json",
+              "RelativeToolTip": "Shop\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T19:03:22.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Shop\\docker-compose.yml",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\docker-compose.yml",
+              "RelativeToolTip": "Shop\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-25T13:27:21.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop.DataAccess\\Repositiries\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Repositiries\\ProductRepository.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop.DataAccess\\Repositiries\\ProductRepository.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Repositiries\\ProductRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:13:22.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop.Core\\Models\\Product.cs",
+              "RelativeToolTip": "Shop.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:11:43.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiExtencions.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Extensions\\ApiExtencions.cs",
+              "RelativeDocumentMoniker": "Shop\\Extensions\\ApiExtencions.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Extensions\\ApiExtencions.cs",
+              "RelativeToolTip": "Shop\\Extensions\\ApiExtencions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:51:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "Shop\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "Shop\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:21:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Shop.API\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:35:44.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

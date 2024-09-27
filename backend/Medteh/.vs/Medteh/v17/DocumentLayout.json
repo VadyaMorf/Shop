@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Medtehnika\\backend\\Medteh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5148810F-F127-429B-B9BF-7A7CF2078EE6}|Product.Application\\Product.Application.csproj|c:\\medtehnika\\backend\\medteh\\product.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5148810F-F127-429B-B9BF-7A7CF2078EE6}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|c:\\medtehnika\\backend\\medteh\\medteh\\contracts\\loginusersreauest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\contracts\\loginusersreauest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|c:\\medtehnika\\backend\\medteh\\medteh\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|c:\\medtehnika\\backend\\medteh\\shop.infastracture\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|solutionrelative:shop.infastracture\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|c:\\medtehnika\\backend\\medteh\\shop.infastracture\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|solutionrelative:shop.infastracture\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|c:\\medtehnika\\backend\\medteh\\shop.infastracture\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFE4019-3D50-4177-BDD3-ABEED2835575}|Shop.Infastracture\\Shop.Infastracture.csproj|solutionrelative:shop.infastracture\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\medtehnika\\backend\\medteh\\shop.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\medtehnika\\backend\\medteh\\shop.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|c:\\medtehnika\\backend\\medteh\\shop.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|c:\\medtehnika\\backend\\medteh\\medteh\\contracts\\productsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\contracts\\productsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\contracts\\productsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\contracts\\productsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.core\\abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5148810F-F127-429B-B9BF-7A7CF2078EE6}|Product.Application\\Product.Application.csproj|C:\\Medtehnika\\backend\\Medteh\\product.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5148810F-F127-429B-B9BF-7A7CF2078EE6}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.core\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F03922E-434C-41F9-B1C3-256E70D7451D}|Shop.Core\\Shop.Core.csproj|solutionrelative:shop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\configuration\\buyerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\configuration\\buyerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|C:\\Medtehnika\\backend\\Medteh\\shop.dataaccess\\entities\\sellerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF10A-D544-4BFD-9524-B0FC456E421C}|Shop.DataAccess\\Shop.DataAccess.csproj|solutionrelative:shop.dataaccess\\entities\\sellerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.API.csproj|solutionrelative:medteh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.csproj|C:\\Medtehnika\\backend\\Medteh\\medteh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0CACB93C-2145-42AD-BA3B-6AD9DD5F1A75}|Medteh\\Medteh.csproj|solutionrelative:medteh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IJWTProvider.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Product.Application\\Interfaces\\Auth\\IJWTProvider.cs",
+              "RelativeDocumentMoniker": "Product.Application\\Interfaces\\Auth\\IJWTProvider.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Product.Application\\Interfaces\\Auth\\IJWTProvider.cs",
+              "RelativeToolTip": "Product.Application\\Interfaces\\Auth\\IJWTProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:50:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUsersReauest.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\LoginUsersReauest.cs",
+              "RelativeDocumentMoniker": "Medteh\\Contracts\\LoginUsersReauest.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\LoginUsersReauest.cs",
+              "RelativeToolTip": "Medteh\\Contracts\\LoginUsersReauest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:36:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "Medteh\\Contracts\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\RegisterUserRequest.cs",
+              "RelativeToolTip": "Medteh\\Contracts\\RegisterUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:29:33.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Shop.Infastracture\\PasswordHasher.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\PasswordHasher.cs",
+              "RelativeToolTip": "Shop.Infastracture\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:24:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTProvider.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\JWTProvider.cs",
+              "RelativeDocumentMoniker": "Shop.Infastracture\\JWTProvider.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\JWTProvider.cs",
+              "RelativeToolTip": "Shop.Infastracture\\JWTProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:24:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Shop.Infastracture\\JwtOptions.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Infastracture\\JwtOptions.cs",
+              "RelativeToolTip": "Shop.Infastracture\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:24:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:20:02.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:18:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:16:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Abstraction\\IProductService.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Abstraction\\IProductService.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Abstraction\\IProductService.cs",
+              "RelativeToolTip": "Shop.Core\\Abstraction\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:52:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Abstraction\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Abstraction\\IProductRepository.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Abstraction\\IProductRepository.cs",
+              "RelativeToolTip": "Shop.Core\\Abstraction\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:30:40.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuyerConfiguration.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Configuration\\BuyerConfiguration.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Configuration\\BuyerConfiguration.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Configuration\\BuyerConfiguration.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Configuration\\BuyerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:59:01.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersEndpoints.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Endpoints\\UsersEndpoints.cs",
+              "RelativeDocumentMoniker": "Medteh\\Endpoints\\UsersEndpoints.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Endpoints\\UsersEndpoints.cs",
+              "RelativeToolTip": "Medteh\\Endpoints\\UsersEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:09:16.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SellerEntity.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\SellerEntity.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Entities\\SellerEntity.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\SellerEntity.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Entities\\SellerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:33:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Medteh\\appsettings.Development.json",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.Development.json",
+              "RelativeToolTip": "Medteh\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T21:29:56.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.json",
+              "RelativeDocumentMoniker": "Medteh\\appsettings.json",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.json",
+              "RelativeToolTip": "Medteh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T21:29:17.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Medteh\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Medteh\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T20:54:08.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsRequest.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\ProductsRequest.cs",
+              "RelativeDocumentMoniker": "Medteh\\Contracts\\ProductsRequest.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\ProductsRequest.cs",
+              "RelativeToolTip": "Medteh\\Contracts\\ProductsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:46:39.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsResponse.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\ProductsResponse.cs",
+              "RelativeDocumentMoniker": "Medteh\\Contracts\\ProductsResponse.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Contracts\\ProductsResponse.cs",
+              "RelativeToolTip": "Medteh\\Contracts\\ProductsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:46:01.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Product.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Product.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Product.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Product.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:42:49.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Medteh\\appsettings.Development.json",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\appsettings.Development.json",
+              "RelativeToolTip": "Medteh\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T10:22:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Program.cs",
+              "RelativeDocumentMoniker": "Medteh\\Program.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Program.cs",
+              "RelativeToolTip": "Medteh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:29:33.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:27:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:26:51.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopDBContext.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\ShopDBContext.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\ShopDBContext.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\ShopDBContext.cs",
+              "RelativeToolTip": "Shop.DataAccess\\ShopDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:26:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Shop.DataAccess\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.DataAccess\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "Shop.DataAccess\\Entities\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:26:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Shop.Core\\Models\\Product.cs",
+              "RelativeToolTip": "Shop.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:25:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Medteh\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Medtehnika\\backend\\Medteh\\Medteh\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Medteh\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:21:30.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
